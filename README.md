@@ -7,3 +7,5 @@ In summary, the research work is based on the following two research questions (
 2. Can the drop-off zone of each individual e-scooter be predicted by analyzing its individual trajectory?
 
 In this repo you can find the **Python** code and the related report in pdf. Moreover, we provide several animated choropleth maps, including the one concerning the surplus/deficit of e-scooters in the various Milan NIL.
+
+You can check the slide presentation [here](https://www.canva.com/design/DAFk9ud3Whg/41zYmgPcn_k_tPpkMLn4iw/view?utm_content=DAFk9ud3Whg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
